@@ -1,4 +1,5 @@
 {
+"#": "{*+}",
 "EPBG": "epic",
 "EUG/TKRAS/EUL": "Yggdrasil",
 "H*EP/TPUBG": "@buffet, I need help:",
@@ -9,7 +10,8 @@
 "POGS": "poggers",
 "PWRU": "bruh",
 "SKRAO*EPL": "{MODE:CAPS}",
-"STKPWHR-FRPBLGTS": "{PLOVER:SOLO_DICT:+empty.json}{MODE:SET_SPACE:/}{^^}",
+"STKPWHR-FRPBLGTS": "`{^}{PLOVER:SOLO_DICT:+empty.json}{MODE:SET_SPACE:/}",
+"TK-PLS": "{>}",
 "TKHRAOP": "{PLOVER:LOOKUP}",
 "TPR-RPL": "{MODE:RESET}",
 "TW-F": "WTF"

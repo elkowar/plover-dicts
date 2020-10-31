@@ -1,5 +1,5 @@
 {
-"HR-FR": "{PLOVER:END_SOLO_DICT}{MODE:RESET}",
+"HR-FR": "{^`}{PLOVER:END_SOLO_DICT}{MODE:RESET}",
 "K-G": "{`^}",
 "S-S": "{^`}"
 }
