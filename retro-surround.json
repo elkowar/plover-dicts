@@ -30,14 +30,14 @@
   "TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS": "{:retro_surround:9:`:`}",
   "TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS/TKWO*ETS": "{:retro_surround:10:`:`}",
 
-  "SKWHR-FRBGS": "{:retro_stringop_sh:1:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:2:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:3:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:4:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:5:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:6:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:7:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:8:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:9:tee -a ~/steno-dicts/lookatme.txt}",
-  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:10:tee -a ~/steno-dicts/lookatme.txt}"
+  "SKWHR-FRBGS": "{:retro_stringop_sh:1:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:2:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:3:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:4:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:5:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:6:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:7:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:8:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:9:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}",
+  "SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS/SKWHR-FRBGS": "{:retro_stringop_sh:0:echo \"$TEXT\" | tee -a ~/steno-dicts/lookatme.txt}"
 }
